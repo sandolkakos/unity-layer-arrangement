@@ -1,0 +1,17 @@
+{
+    "name": "SandolkakosDigital.LayerArrangement.Editor",
+    "references": [
+        "GUID:c092fea99dcd9de48aaedc1de61c53bf"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

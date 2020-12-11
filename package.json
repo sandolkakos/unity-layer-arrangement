@@ -1,0 +1,16 @@
+{
+  "name": "com.sandolkakosdigital.layerarrangement",
+  "version": "1.0.0",
+  "displayName": "Layer Arrangement",
+  "description": "# Layer Arrangement.\r\n\r\nUtility to arrange layers similarly to Photoshop and PowerPoint.\r\n\r\n## RectTransform\r\nA selected RectTransform can be moved up or down inside its Canvas by pressing some shortcuts.\r\n\r\n## Shortcuts:\r\n- Bring Forward:   Ctrl + ]\r\n- Bring Backward:  Ctrl + [\r\n- Send to Front:   Ctrl + Shift + ] \r\n- Send to Back:    Ctrl + Shift + [\r\n\r\n## TODO list:\r\n-  Add that behavior to SpriteRenderer, so that we can change the SortingOrder inside its SortingLayer.\r\n- Avoid moving a RectTransform to inside a parent with LayoutGroup.",
+  "keywords": [
+    "layerarrangement"
+  ],
+  "author": {
+    "name": "Marllon Vilano",
+    "url": "https://github.com/sandolkakos"
+  },
+  "gitDependencies": {
+    "com.sandolkakosdigital.commonutilities": "https://github.com/sandolkakos/sandolkakosdigital-custom-packages.git?path=/Packages/CommonUtilities#1.0.0"
+  }
+}
