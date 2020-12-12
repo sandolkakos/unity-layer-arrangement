@@ -11,6 +11,6 @@
     "url": "https://github.com/sandolkakos"
   },
   "gitDependencies": {
-    "com.sandolkakosdigital.commonutilities": "https://github.com/sandolkakos/sandolkakosdigital-custom-packages.git?path=/Packages/CommonUtilities#1.0.0"
+    "com.sandolkakosdigital.commonutilities": "https://github.com/sandolkakos/unity-common-utilities.git"
   }
 }
