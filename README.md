@@ -2,6 +2,12 @@
 
 Utility to arrange layers similarly to Photoshop and PowerPoint.
 
+## How to use
+Just copy the link below and add it to your project via Unity Package Manager: [Installing from a Git URL](https://docs.unity3d.com/Manual/upm-ui-giturl.html)
+```
+https://github.com/sandolkakos/unity-layer-arrangement.git
+```
+
 ## RectTransform
 A selected RectTransform can be moved up or down inside its Canvas by pressing some shortcuts.
 
